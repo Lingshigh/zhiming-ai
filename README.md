@@ -41,6 +41,14 @@
 ### 目录结构（前端）
 <img width="489" height="612" alt="image" src="https://github.com/user-attachments/assets/9419319e-f2f3-4471-be8f-1ec41973f8d5" />
 
+### 登录注册展示
+<img width="754" height="1000" alt="image" src="https://github.com/user-attachments/assets/aa413f3a-6fa4-4600-93f6-4313e62c029c" />
+<img width="2520" height="1399" alt="image" src="https://github.com/user-attachments/assets/ac7ad5c6-698a-4c40-abf5-4c400e1bbbcb" />
+
+
+#### ai命名功能展示
+<img width="1258" height="835" alt="企业微信截图_17695860601552" src="https://github.com/user-attachments/assets/40c9dbb2-6e17-4be7-887a-74bc7b4dedcc" />
+<img width="1258" height="934" alt="企业微信截图_17695864586975" src="https://github.com/user-attachments/assets/13b8d227-5d7b-46eb-975a-d5c49cc593da" />
 
 
 ## 🚀 快速开始

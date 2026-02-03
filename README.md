@@ -35,10 +35,12 @@
 * **样式**: CSS3 Flexbox
 
 ### 目录结构（后端）
-<img width="431" height="194" alt="image" src="https://github.com/user-attachments/assets/7fb82607-8951-4805-80c0-b15a95700833" />
+<img width="791" height="1278" alt="image" src="https://github.com/user-attachments/assets/8c2ac472-a8ba-4de4-8bc6-5b8b24d16f20" />
+
 
 ### 目录结构（前端）
-<img width="274" height="198" alt="image" src="https://github.com/user-attachments/assets/c915d761-157b-4dbf-be05-d6160282c12c" />
+<img width="489" height="612" alt="image" src="https://github.com/user-attachments/assets/9419319e-f2f3-4471-be8f-1ec41973f8d5" />
+
 
 
 ## 🚀 快速开始

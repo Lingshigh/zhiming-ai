@@ -46,9 +46,15 @@
 <img width="2520" height="1399" alt="image" src="https://github.com/user-attachments/assets/ac7ad5c6-698a-4c40-abf5-4c400e1bbbcb" />
 
 
-#### ai命名功能展示
+### ai命名功能展示
 <img width="1258" height="835" alt="企业微信截图_17695860601552" src="https://github.com/user-attachments/assets/40c9dbb2-6e17-4be7-887a-74bc7b4dedcc" />
 <img width="1258" height="934" alt="企业微信截图_17695864586975" src="https://github.com/user-attachments/assets/13b8d227-5d7b-46eb-975a-d5c49cc593da" />
+<img width="2504" height="1416" alt="企业微信截图_17701703003433" src="https://github.com/user-attachments/assets/df873666-5efa-4065-b032-2420aaf5e575" />
+<img width="2504" height="1416" alt="企业微信截图_17701703299026" src="https://github.com/user-attachments/assets/7a247ca6-7b2d-4f81-bd28-3111d77516fc" />
+
+### 模型配置功能展示
+<img width="2504" height="1416" alt="企业微信截图_17701707869096" src="https://github.com/user-attachments/assets/7830b01c-9533-4d44-9b2a-1c3a36512935" />
+
 
 
 ## 🚀 快速开始
